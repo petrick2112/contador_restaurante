@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(MaterialApp(
+
       title: "Contador",
       home: Column(
         mainAxisAlignment: MainAxisAlignment.center,
